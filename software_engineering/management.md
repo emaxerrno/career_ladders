@@ -88,7 +88,7 @@
 * Highlights architecture needs and proposes initiatives to address
 * Evangelizes the "why" of architecture changes and patterns
 * Assesses departmental risks and acts to mitigate them
-* Understand Enovas core business, products and services and how technology impacts it
+* Understand Enova's core business, products and services and how technology impacts it
 * Provides suggestions on how to meet shared goals or how to improve the company
 
 ## People Mangement
@@ -111,7 +111,7 @@
 * Highlights architecture needs and proposes initiatives to address
 * Evangelizes the "why" of architecture changes and patterns
 * Assesses departmental risks and acts to mitigate them
-* Understand Enovas core business, products and services and how technology impacts it
+* Understand Enova's core business, products and services and how technology impacts it
 * Provides suggestions on how to meet shared goals or how to improve the company
 
 ## People Mangement
