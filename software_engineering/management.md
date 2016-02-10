@@ -14,7 +14,7 @@
 * Contribute toward to development or selection of architecture guidelines and patterns
 * Performs gap analyses periodically against current and future business needs and creates plan to address
 
-## People Mangement
+## People Management
 * Able to take a group of individuals and form a cohesive unit to accomplish a goal
 * Follows and supports company policies
 * Consistently creates and completes development plans (either technical path or leadership path) for team members; and to ensure leads assess the next step in their career.
@@ -37,7 +37,7 @@
 * Understands and possesses the technical skills to deliver the right solutions to the business
 * Contributes to and evangelizes architecture initiatives
 
-## People Mangement
+## People Management
 * Viewed as a supportive and postive leader by their peers and in their department.
 * Leads a team, not just manages a team
 * Owns and drives career path for all their team members
@@ -65,7 +65,7 @@
 * Understands goals for their team(s) and where they contribute to company goals
 * Exhibits strong organizational awareness (knows who to coordinate with or involve in key discussions)
 
-## People Mangement
+## People Management
 * Leads the communication of tough decisions and tough messages
 * Mentors and empowers people to become leaders (people leaders, technical leaders, thought leaders)
 * Shows decisiveness, thoughtfulness, and constancy in actions with people and performance
@@ -91,7 +91,7 @@
 * Understand Enova's core business, products and services and how technology impacts it
 * Provides suggestions on how to meet shared goals or how to improve the company
 
-## People Mangement
+## People Management
 * Viewed as a supportive and postive leader by other Sr. Managers and above
 * Shows ability to manage through ambigious situations
 * Manages managers
@@ -114,7 +114,7 @@
 * Understand Enova's core business, products and services and how technology impacts it
 * Provides suggestions on how to meet shared goals or how to improve the company
 
-## People Mangement
+## People Management
 * Ability to influence or lead the direction of cross-department or company-wide initiatives
 * Develops a strong leadership team that allows the group to run autonomously
 * Develops senior leadership
