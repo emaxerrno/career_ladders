@@ -20,8 +20,8 @@ The ladders also progress in terms of what each position impacts: starting with 
 
 # Definitions
 Within the ladders there's some Enova specific terminology:
-* Core - We have organized teams focused on either specific products or internal operations. These core teams don't change that often. This is ~65% of our engineering team.
-* Ranger - The remaining engineers are broken out into 4 person ranger teams. These teams are assigned every 6 weeks during a company wide prioritization stagegate process known as EPG.
+* Core - We have organized teams focused on either specific products or internal operations. These core teams don't change that often. This is the bulk of our team.
+* Ranger - The remaining engineers are broken out into 4 person ranger teams. These teams are assigned every 6 weeks during a company wide prioritization process known as EPG.
 * SE - Software Engineering
 * Architecture Council - Large, cross functional team made up of members of SE, IT, Analytics, Data Services and TechOps that help organize company wide projects and iniatives.
 
