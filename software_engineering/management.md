@@ -38,7 +38,7 @@
 * Contributes to and evangelizes architecture initiatives
 
 ## People Management
-* Viewed as a supportive and postive leader by their peers and in their department.
+* Viewed as a supportive and positive leader by their peers and in their department.
 * Leads a team, not just manages a team
 * Owns and drives career path for all their team members
 * Actively works to recruit new talent from the outside through networking, outside events
