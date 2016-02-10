@@ -3,8 +3,10 @@
 ## Software Engineer II
 ## Sr. Software Engineer I
 * N/A
+
 ## Sr. Software Engineer II
 *Can operate as a leader for a single project
+
 ## Lead Software Engineer
 * Leads a Ranger squad
 
