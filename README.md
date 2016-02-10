@@ -26,7 +26,7 @@ Within the ladders there's some Enova specific terminology:
 * Architecture Council - Large, cross functional team made up of members of SE, IT, Analytics, Data Services and TechOps that help organize company wide projects and iniatives.
 
 # Why Ugly Markdown?
-Markdown doesn't represent tables / matrices well. GFM only supports single line table cells, so they wouldn't work here. If you have some suggestions, please, open up an issue.
+Markdown doesn't represent tables / matrices well. GFM only supports single line table cells, so they wouldn't work here. If you have some suggestions, please, open up an issue or, better yet, submit a PR.
 
 # Feedback
 Feedback is welcome. Feel free to ping [Griffin Caprio](http://www.twitter.com/gcaprio) with questions or comments.
