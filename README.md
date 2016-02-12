@@ -23,7 +23,7 @@ Within the ladders there's some Enova specific terminology:
 * Core - We have organized teams focused on either specific products or internal operations. These core teams don't change that often. This is the bulk of our team.
 * Ranger - The remaining engineers are broken out into 4 person ranger teams. These teams are assigned every 6 weeks during a company wide prioritization process known as EPG.
 * SE - Software Engineering
-* Architecture Council - Large, cross functional team made up of members of SE, IT, Analytics, Data Services and TechOps that help organize company wide projects and iniatives.
+* Architecture Council - Large, cross functional team made up of members of SE, IT, Analytics, Data Services and TechOps that help organize company wide projects and initiatives.
 
 # Why Ugly Markdown?
 Markdown doesn't represent tables / matrices well. GFM only supports single line table cells, so they wouldn't work here. If you have some suggestions, please, open up an issue or, better yet, submit a PR.
